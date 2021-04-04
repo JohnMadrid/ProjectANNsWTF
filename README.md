@@ -35,16 +35,16 @@ runList=[
 In example above we set up two experiments. The first one, identified with id=1, sets a desired optimizer, learning rate, beta and epsison values. 
 In the second experiment with id=2, we modified the values of the style weight and content weight to the values we wanted to try out. 
 The following parameters can be modified: 
-                     number # id
-                     initImageMode
-                     img_content_name 
-                     img_style_name 
-                     imgwidth 
-                     color_preservation_method 
-                     content_weight
-                     style_weight 
-                     style_layer_weights_modifiers 
-                     optimizer
+number # id
+initImageMode
+img_content_name 
+img_style_name 
+imgwidth 
+color_preservation_method 
+content_weight
+style_weight 
+style_layer_weights_modifiers 
+optimizer
                      
 
 
