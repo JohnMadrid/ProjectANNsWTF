@@ -81,13 +81,15 @@ model with specific set of parameters. In what follows we detail the content of 
    and 1000 epochs</li><li> <strong>generated_41_LR=0.01_1000epo_512_color_pres_method_YUV_FUNCT</strong>: Image generated using YUV method, learning rate 0.01 and
   1000 epochs</li></ul></li>
  <li><h4>content_layer_modifications</h4><ul>
-  <li><strong>block3_conv1_5000:</strong> Image obtained after 5000 and epoches and switching content layer to block3_conv1 </li>
-  <li><strong>block5_conv4_5000: </strong>Image obtained after 5000 and epoches switching content layer to block5_conv4</li>
-  <li><strong>block_4_conv2: </strong>Image obtained after 5000 epoches and switching content layer to block4_conv2</li>
-  <li><strong>block_5_conv3_5000: </strong>Image obtained after 5000 epoches and switching content layer to block5_conv3</li></ul></li>
+  <li><strong>block3_conv1_5000:</strong> Image obtained after 5000 and epoches and switching content layer to block3_conv1. </li>
+  <li><strong>block5_conv4_5000: </strong>Image obtained after 5000 and epoches switching content layer to block5_conv4.</li>
+  <li><strong>block_4_conv2: </strong>Image obtained after 5000 epoches and switching content layer to block4_conv2.</li>
+  <li><strong>block_5_conv3_5000: </strong>Image obtained after 5000 epoches and switching content layer to block5_conv3.</li></ul></li>
  <li><h4>style_layers_modifications:</h4>
-  <ul><li><strong>style_two_more_layers_5000: </strong>Image obtained after 5000 epochs and a total of 7 style layers</li>
-   <li><strong>style_three_more_layers_5000: </strong>Image obtained after 5000 epochs and a total of 8 style layers</li>
-   <li><strong>style_sub_2__last_layers_5000: </strong>Image obtained after 5000 epochs and a total of 3 style layers</li>
-   <li><strong>style_sub_2__first_layers_5000: </strong>Image obtained after 5000 epochs and a total of 3 style layers</li></ul></li>
+  <ul><li><strong>style_two_more_layers_5000: </strong>Image obtained after 5000 epochs and a total of 7 style layers.</li>
+   <li><strong>style_three_more_layers_5000: </strong>Image obtained after 5000 epochs and a total of 8 style layers.</li>
+   <li><strong>style_sub_2__last_layers_5000: </strong>Image obtained after 5000 epochs and a total of 3 style layers.</li>
+   <li><strong>style_sub_2__first_layers_5000: </strong>Image obtained after 5000 epochs and a total of 3 style layers.</li></ul></li>
+ <li><h4>different_parameters: </h4>The images stored in this folder correspond to the ones obtained after having modified a hyperparemeter. 
+ To have a clear picture as to what exactly was changed, please refer to the name of the image.</li>
  
