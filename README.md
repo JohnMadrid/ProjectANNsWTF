@@ -11,7 +11,9 @@ Our algorithm synthesizes the style of an image S and the content of an image C 
 
 <h3> Setup</h3>
 <div>
+ 
 The development and testing of the algorithm was done in Colab.
+ 
 <ol>
  <li> Open the noteboook MasterWTF.ipynb in Colab. </li>
  <li>Create a folder in your Google Drive named ANNs StyleTransfer.</li>
@@ -30,7 +32,7 @@ to conduct your own experiments. </p>
 <h4>Conducting your own Experiments: </h4>
 <ol>
          <li> Go to the section 'Where stuff happens'. </li>
-         <li>Either uncomment any of the already set up experiments or set up a new one by creating a list like so: </li>
+         <li>Either uncomment any of the already set up experiments or set up a new one by creating a Python list like so: </li>
 </ol>
 runList=[
 
