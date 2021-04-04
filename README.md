@@ -1,10 +1,10 @@
 # ProjectANNsWTF
 <h1>Final Project Artistic Style Transfer </h1>
 
-This is a Tensorflow implementation of Artistic Style Transfer mainly based on Gaty et. al. paper https://arxiv.org/abs/1508.06576 (For further 
+<p  align="justify">This is a Tensorflow implementation of Artistic Style Transfer mainly based on Gaty et. al. paper https://arxiv.org/abs/1508.06576 (For further 
 datails regarding the sources used please refer to the report that accompanies this project)
 
-Our algorithm synthesizes the style of an image S and the content of an image C into a new image G. 
+Our algorithm synthesizes the style of an image S and the content of an image C into a new image G. </p>
 
 
 
@@ -18,7 +18,6 @@ The development and testing of the algorithm was done in Colab.
  <li>Save the source images to the folder created in step 2. The images can be found here: https://github.com/yesidc/ProjectANNsWTF/tree/main/source_img </li>
  <li> Run the notebook and mount your Google Drive when asked to do so. </li>
 </ol>
-
 
 
 
