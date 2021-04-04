@@ -40,13 +40,13 @@ runList=[
 ]
 
 <p  align="justify">In example above we set up two experiments. The first one, identified with id = 1, sets a desired optimizer, learning rate, beta and epsison values. 
-In the second experiment with id = 2, we modified the values of the style weight and content weight to the values we wanted to try out. 
+In the second experiment with id = 2, we modified the value of the style weight and content weight to the values we wanted to try out. 
 Besides the parameters exemplified above, the following can also be modified: </p>
 
 <ul>
-         <li>number # id </li>
+         <li>number </li>
 
-<li> initImageMode</li>
+<li> initImageMode </li>
 
 <li> img_content_name </li>
 
@@ -65,6 +65,8 @@ Besides the parameters exemplified above, the following can also be modified: </
 <li> optimizer </li>
 </ul>                
 
-
+<p align_ "justify"> All of the above are attributes of the class runConfig(). To have a better understing as to what value each attribute
+takes, we suggest taking a look at the comments that go with their definitions. This can be found in the section
+'A helper class to enable parallel trainings' of the notebook MasterWTF.ipynb</p>
 
 
