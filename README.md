@@ -1,8 +1,7 @@
 # Project ANNsWTF
 <h1>Final Project Artistic Style Transfer </h1>
 
-<p  align="justify">This is a Tensorflow implementation of Artistic Style Transfer mainly based on Gaty et. al. paper https://arxiv.org/abs/1508.06576 (For further 
-datails regarding the sources used please refer to the report that accompanies this project)
+<p  align="justify">This is a Tensorflow implementation of Artistic Style Transfer mainly based on Gaty et. al. <a href="https://arxiv.org/abs/1508.06576"> paper </a>(For further datails regarding the sources used please refer to the report that accompanies this project)
 
 Our algorithm synthesizes the style of an image S and the content of an image C into a new image G. </p>
 
@@ -17,7 +16,7 @@ The development and testing of the algorithm was done in Colab.
 <ol>
  <li> Open the noteboook MasterANNsWTF.ipynb in Colab. </li>
  <li>Create a folder in your Google Drive named ANNs StyleTransfer.</li>
- <li>Save the source images to the folder created in step 2. The images can be found here: https://github.com/yesidc/ProjectANNsWTF/tree/main/source_img </li>
+ <li>Save the source images to the folder created in step 2. The images can be found <a href="https://github.com/yesidc/ProjectANNsWTF/tree/main/source_img"> here </a></li>
  <li> Run the notebook and mount your Google Drive when asked to do so. </li>
 </ol>
 </div>
