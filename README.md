@@ -10,7 +10,7 @@ Our algorithm synthesizes the style of an image S and the content of an image C 
 
 
 <h3> Setup</h3>
-<div  align="justify">
+<div>
 The development and testing of the algorithm was done in Colab.
 <ol>
  <li> Open the noteboook MasterWTF.ipynb in Colab. </li>
