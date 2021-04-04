@@ -41,7 +41,7 @@ runList=[
 
 <p  align="justify">In example above we set up two experiments. The first one, identified with id = 1, sets a desired optimizer, learning rate, beta and epsison values. 
 In the second experiment with id = 2, we modified the values of the style weight and content weight to the values we wanted to try out. 
-The following parameters can be modified: </p>
+Besides the parameters exemplified above, the following can also be modified: </p>
 
 <ul>
          <li>number # id </li>
