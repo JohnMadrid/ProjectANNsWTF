@@ -15,7 +15,7 @@ Our algorithm synthesizes the style of an image S and the content of an image C 
 The development and testing of the algorithm was done in Colab.
  
 <ol>
- <li> Open the noteboook MasterWTF.ipynb in Colab. </li>
+ <li> Open the noteboook MasterANNsWTF.ipynb in Colab. </li>
  <li>Create a folder in your Google Drive named ANNs StyleTransfer.</li>
  <li>Save the source images to the folder created in step 2. The images can be found here: https://github.com/yesidc/ProjectANNsWTF/tree/main/source_img </li>
  <li> Run the notebook and mount your Google Drive when asked to do so. </li>
@@ -25,7 +25,7 @@ The development and testing of the algorithm was done in Colab.
 
 <h3>Running the Model:</h3>
 
-<p  align="justify">You can either run MasterWTF.ipynb with the default parameters or you can customize it as you wish 
+<p  align="justify">You can either run MasterANNsWTF.ipynb with the default parameters or you can customize it as you wish 
 to conduct your own experiments. </p>
 
 
@@ -69,7 +69,7 @@ Besides the parameters exemplified above, the following can also be modified: </
 
 <p align= "justify"> All of the above are attributes of the class runConfig(). To have a better understing as to what value each attribute
 takes, we suggest taking a look at the comments that go with their definitions. This can be found in the section
-'A helper class to enable parallel trainings' of the notebook MasterWTF.ipynb</p>
+'A helper class to enable parallel trainings' of the notebook MasterANNsWTF.ipynb</p>
 
 <h3>Images </h3>
 <p align= "justify"> Inside the folder Images there are four directories that contain the the images obtained after having trained the
