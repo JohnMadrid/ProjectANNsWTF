@@ -23,8 +23,8 @@ The development and testing of the algorithm was done in Colab.
 
 <h3>Running the Model:</h3>
 
-You can either run MasterWTF.ipynb with the default parameters or you can customize it as you wish 
-to conduct your own experiments. 
+<p  align="justify">You can either run MasterWTF.ipynb with the default parameters or you can customize it as you wish 
+to conduct your own experiments. </p>
 
 
 <h4>Conducting your own Experiments: </h4>
@@ -39,9 +39,9 @@ runList=[
       
 ]
 
-In example above we set up two experiments. The first one, identified with id = 1, sets a desired optimizer, learning rate, beta and epsison values. 
+<p  align="justify">In example above we set up two experiments. The first one, identified with id = 1, sets a desired optimizer, learning rate, beta and epsison values. 
 In the second experiment with id = 2, we modified the values of the style weight and content weight to the values we wanted to try out. 
-The following parameters can be modified: 
+The following parameters can be modified: </p>
 
 <ul>
          <li>number # id </li>
