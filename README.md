@@ -10,7 +10,7 @@ Our algorithm synthesizes the style of an image S and the content of an image C 
 
 
 <h3> Setup</h3>
-
+<div  align="justify">
 The development and testing of the algorithm was done in Colab.
 <ol>
  <li> Open the noteboook MasterWTF.ipynb in Colab. </li>
@@ -18,7 +18,7 @@ The development and testing of the algorithm was done in Colab.
  <li>Save the source images to the folder created in step 2. The images can be found here: https://github.com/yesidc/ProjectANNsWTF/tree/main/source_img </li>
  <li> Run the notebook and mount your Google Drive when asked to do so. </li>
 </ol>
-
+</div>
 
 
 <h3>Running the Model:</h3>
