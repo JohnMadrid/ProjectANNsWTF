@@ -25,7 +25,7 @@ The development and testing of the algorithm was done in Colab.
 <h3>Running the Model:</h3>
 
 <p  align="justify">You can either run MasterANNsWTF.ipynb with the default parameters or you can customize it as you wish 
-to conduct your own experiments. </p>
+in order to conduct your own experiments. </p>
 
 
 <h4>Conducting your own Experiments: </h4>
